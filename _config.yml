@@ -21,7 +21,7 @@
 title: Will Davies
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer science graduate from the University of Warwick.
+  Computer science graduate from the University of Warwick
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wdavi.es" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oshawott247
